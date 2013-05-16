@@ -1,0 +1,1 @@
+## An extension to hubot's built-in adapter and brain class.
